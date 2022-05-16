@@ -1,5 +1,6 @@
-export { data };
-const data = {
+
+export default {
+
     products: [
         {
             id: "1",
@@ -21,8 +22,9 @@ const data = {
             price: "2500",
             image: "https://i.picsum.photos/id/169/2500/1662",
 
-        },
+        }
 
 
     ]
+
 }

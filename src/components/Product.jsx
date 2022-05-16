@@ -4,7 +4,7 @@ export default function Product(props) {
 	const { product } = props;
 	return (
 		<React.Fragment>
-			Product{{ product }};
+			
 			<div>
 		  
 			<img className="small" src={product.image} alt={product.name}></img>
