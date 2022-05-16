@@ -6,15 +6,10 @@ export default function Header(props) {
             <div>
                 <a href="#/">
                     <h1>Small Shopping Card</h1>
-                    </a>
-
-
+                </a>
             </div>
             <a href="#/cart">Cart</a>
             <a href="#/signin">SignIn</a>
-
         </header>
-
-        )
-        
+    )
 }
