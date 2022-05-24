@@ -9,7 +9,7 @@ export default function Product(props) {
                 <h3>{product.name}</h3>
                 <div>${product.price}</div>
             </div>
-            <button>Add To Cart</button>
+            <button class="button is-danger">Add To Cart</button>
         </React.Fragment>
     );
 }
